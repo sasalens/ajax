@@ -1,0 +1,12 @@
+body {
+    margin: 5% 0;
+}
+
+.tambah {
+    padding-right: 40px;
+}
+
+.data {
+    border-left: solid 1px #eee;
+    padding-left: 40px;
+}
